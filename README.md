@@ -4,6 +4,6 @@ A new Flutter project.
 
 ## Getting Started
 
-# This project is about the news app fetching the data from the RestApi
+# This project is about the news app fetching the data from the RestApi and representing the UI.
 
 👩‍💻
